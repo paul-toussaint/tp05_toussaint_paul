@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Super Saiyen 1",
+    "category": "Transformation",
+    "price": 9.99
+  },
+  {
+    "id": 2,
+    "name": "Super Saiyen 2",
+    "category": "Transformation",
+    "price": 19.99
+  },
+  {
+    "id": 3,
+    "name": "Super Saiyen 3",
+    "category": "Transformation",
+    "price": 29.99
+  },
+  {
+    "id": 4,
+    "name": "Super Saiyen 4",
+    "category": "Transformation",
+    "price": 39.99
+  },
+  {
+    "id": 5,
+    "name": "Kamehame",
+    "category": "Technique",
+    "price": 49.99
+  },
+  {
+    "id": 6,
+    "name": "Genkidama",
+    "category": "Technique",
+    "price": 99.99
+  }
+]

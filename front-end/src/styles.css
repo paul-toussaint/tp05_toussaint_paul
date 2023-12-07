@@ -1,0 +1,66 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: 'Helvetica', sans-serif;
+  background: linear-gradient(135deg, #ff6b6b, #55efc4);
+  margin: 10px;
+  padding: 0;
+  color: #333;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.header {
+  background: linear-gradient(135deg, #fd79a8, #2d3436);
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+}
+
+.nav {
+  background: linear-gradient(135deg, #74b9ff, #55efc4);
+  color: #fff;
+  padding: 10px;
+  border-radius: 0 0 10px 10px;
+}
+
+  .nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+
+  .nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+
+.content {
+  padding: 20px;
+}
+
+.footer {
+  background: linear-gradient(135deg, #fd79a8, #2d3436);
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  border-radius: 0 0 10px 10px;
+}
+
+body {
+  font-family: 'Avenir', sans-serif;
+  color: #33475b;
+}
+
+img {
+  display: block;
+  width: 20%;
+  margin: auto;
+}
